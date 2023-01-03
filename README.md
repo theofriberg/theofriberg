@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================  
 Student, aspiring developer 
 ---------------------------  
-I'm a CS student with a passion for backend development.  
+I'm a CS student with a passion for all things tech.  
 * 🌍  I'm based in Stockholm 
 * ✉️  You can contact me at [friberg.theodor77@live.se](mailto:friberg.theodor77@live.se) 
 * 🧠  I'm learning React.js 
