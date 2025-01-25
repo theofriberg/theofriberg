@@ -2,10 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================  
 Student, aspiring developer 
 ---------------------------  
-I'm a CS student with a passion for all things tech.  
+I'm a Math student with a passion for all things tech.  
 * 🌍  I'm based in Stockholm 
 * ✉️  You can contact me at [friberg.theodor77@live.se](mailto:friberg.theodor77@live.se) 
-* 🧠  I'm learning React.js 
+* 🧠  Currently learning C++
 * 🤝  I'm open to collaborating on anything cool
 
 ### Skills  
